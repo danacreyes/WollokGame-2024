@@ -1,4 +1,7 @@
 # Bomb It Pirata
+Tecnicatura Universitaria en Programacion Informática - Universidad Nacional de San Martín (UNSAM)
+
+- MATERIA: Algoritmos I - 2024
 
 ## Equipo de desarrollo
 
@@ -41,6 +44,5 @@ Cada vez que se explota un objeto, hay una probabilidad random de que suelte un 
 
 ## Otros
 
-- Algoritmos I - Universidad Nacional de San Martín (UNSAM)
 - Versión de wollok 0.2.11
 - Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
